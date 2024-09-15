@@ -10,11 +10,11 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 <p align="left"> <a href="https://twitter.com/arnold_kells4" target="blank"><img src="https://img.shields.io/twitter/follow/arnold_kells4?logo=twitter&style=for-the-badge" alt="arnold_kells4" /></a> </p>
 
-- 🔭 I’m currently working on [custom-carz-project](https://github.com/arnold-0803/custom-carz-project)
+- 🔭 I’m currently working on [custom carz project](https://github.com/arnold-0803/custom-carz-project)
 
 - 🌱 I’m currently learning **Next.js and tailwindcss**
 
-- 👨‍💻 All of my projects are available at [arnold-0803.github.io/My-Portfolio-Website](arnold-0803.github.io/My-Portfolio-Website)
+- 👨‍💻 All of my projects are available at [https://arnold-0803.github.io/My-Portfolio-Website](arnold-0803.github.io/My-Portfolio-Website)
 
 - 💬 Ask me about **front-end web development**
 
