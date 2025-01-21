@@ -18,7 +18,7 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 - 💬 Ask me about **front-end web development**
 
-- 📫 How to reach me **arnoldkells4@gmail.com**
+- 📫 How to reach me **email: arnoldkells4@gmail.com/ Phone: +254714387538**
 
 - ⚡ Fun fact **I love being around cool people.🤩**
 
