@@ -10,9 +10,9 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 <p align="left"> <a href="https://twitter.com/arnold_kells4" target="blank"><img src="https://img.shields.io/twitter/follow/arnold_kells4?logo=twitter&style=for-the-badge" alt="arnold_kells4" /></a> </p>
 
-- 🔭 I’m currently working on [custom carz project](https://github.com/arnold-0803/custom-carz-project)
+- 🔭 I’m currently working on [a website called imaginations, a digital online market place for arts and crafts masterpieces](arts-and-crafts--imaginations-)
 
-- 🌱 I’m currently learning **Next.js and tailwindcss**
+- 🌱 I’m currently learning **Backend Development(MERN)**
 
 - 👨‍💻 All of my projects are available at [https://arnold-0803.github.io/My-Portfolio-Website](arnold-0803.github.io/My-Portfolio-Website)
 
@@ -20,7 +20,7 @@ src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gi
 
 - 📫 How to reach me **arnoldkells4@gmail.com**
 
-- ⚡ Fun fact **I love being around funny people.**
+- ⚡ Fun fact **I love being around cool people.🤩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
